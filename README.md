@@ -2,10 +2,14 @@
 ## 1. 소개
 
 <div align="center">
-  <img src="https://github.com/k660323/FunnyLand/blob/main/Images/%EC%B5%9C%ED%9B%84%EC%9D%98%20%EC%83%9D%EC%A1%B4%EC%9E%90.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/FunnyLand/blob/main/Images/%EC%A2%80%EB%B9%84%20%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/FunnyLand/blob/main/Images/%EC%8A%88%ED%8C%85%EC%8A%88%ED%84%B0.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/FunnyLand/blob/main/Images/%EB%A6%BF%EC%A7%80%20%EB%B8%94%EB%A1%9D%EC%BB%A4.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/ShotShot/blob/main/Images/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/ShotShot/blob/main/Images/%EC%98%B5%EC%85%98.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/ShotShot/blob/main/Images/%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EB%98%90%EB%8A%94%20%EC%B0%BE%EA%B8%B0.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/ShotShot/blob/main/Images/%EB%A7%A4%EC%B9%AD%EC%A4%91.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/ShotShot/blob/main/Images/%EB%AA%A8%EB%93%9C%20%EC%84%A0%ED%83%9D.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/ShotShot/blob/main/Images/%EB%A7%B5%20%EB%A1%9C%EB%93%9C.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/ShotShot/blob/main/Images/%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%84%A0%ED%83%9D.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/ShotShot/blob/main/Images/%EC%A0%84%ED%88%AC%EC%94%AC.JPG" width="49%" height="230"/>
   
   < 게임 플레이 사진 >
 </div>
